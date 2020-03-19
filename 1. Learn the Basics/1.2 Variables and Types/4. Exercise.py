@@ -20,7 +20,8 @@ if isinstance( myint , int):
 # it can check float, int, str, list, dict, tuple and instance.
 # this all topics we will discourse farther in module
 # And if you want to print any value in medial of the sentence
-# then you can write print like that
+# then you can write print as per used in if 
+# for more Variables you can use
 # int = %d
 # float = %f
 # str = %s
