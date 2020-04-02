@@ -1,7 +1,7 @@
 # To access a function inside of an object you use notation similar to accessing a variable:
 
 class MyClass:
-    variable = "blah"
+    variable = "First"
 
     def function(self):
         print("This is a message inside the class.")

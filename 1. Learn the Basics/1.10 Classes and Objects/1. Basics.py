@@ -3,7 +3,7 @@
 # A very basic class would look something like this:
 
 class MyClass:
-    variable = "blah"
+    variable = "first"
 
     def function(self):
         print("This is a message inside the class.")
@@ -11,13 +11,7 @@ class MyClass:
 # We'll explain why you have to include that "self" as a parameter a little bit later.
 # First, to assign the above class(template) to an object you would do the following:
 
-class MyClass1:
-    variable = "blah"
-
-    def function(self):
-        print("This is a message inside the class.")
-
-myobjectx = MyClass1()
+myobjectx = MyClass()
 
 
 # Now the variable "myobjectx" holds an object of the class "MyClass" that contains the variable and
