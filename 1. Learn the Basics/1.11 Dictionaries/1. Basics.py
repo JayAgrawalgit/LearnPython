@@ -4,16 +4,17 @@
 # For example, a database of phone numbers could be stored using a dictionary like this:
 
 phonebook = {}
-phonebook["John"] = 938477566
-phonebook["Jack"] = 938377264
-phonebook["Jill"] = 947662781
+phonebook["John"] = 938477561
+phonebook["Jack"] = 938377262
+phonebook["Jill"] = 947662783
 print(phonebook)
+
 
 # Alternatively, a dictionary can be initialized with the same values in the following notation:
 
-phonebook = {
-    "John" : 938477566,
-    "Jack" : 938377264,
-    "Jill" : 947662781
+phonebook2 = {
+    "Jony" : 938477564,
+    "Jay" : 938377265,
+    "Jeny" : 947662786
 }
-print(phonebook)
+print(phonebook2)

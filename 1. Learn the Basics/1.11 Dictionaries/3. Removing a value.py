@@ -1,19 +1,19 @@
 # To remove a specified index, use either one of the following notations:
 
 phonebook = {
-   "John" : 938477566,
-   "Jack" : 938377264,
-   "Jill" : 947662781
+   "John" : 938477561,
+   "Jack" : 938377262,
+   "Jill" : 947662783
 }
 del phonebook["John"]
 print(phonebook)
 
 # or:
 
-phonebook = {
-   "John" : 938477566,
-   "Jack" : 938377264,
-   "Jill" : 947662781
+phonebook2 = {
+    "Jony" : 938477564,
+    "Jay" : 938377265,
+    "Jeny" : 947662786
 }
-phonebook.pop("John")
-print(phonebook)
+phonebook2.pop("Jony")
+print(phonebook2)
