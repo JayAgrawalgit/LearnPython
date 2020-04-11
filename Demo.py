@@ -1,1 +1,1 @@
-print("Demo File check is is runing")
+print("Demo File check")
